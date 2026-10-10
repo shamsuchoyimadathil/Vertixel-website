@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Vertixel WhatsApp display picture</title>
+  <rect width="1024" height="1024" fill="#111417"/>
+  <!-- Mark sized to sit inside WhatsApp's circular crop -->
+  <g transform="translate(192 192) scale(10)">
+  <path fill="#FFFFFF" d="M6 6H26V12H12V26H6Z M38 6H58V26H52V12H38Z M58 38V58H38V52H52V38Z M6 38H12V52H26V58H6Z"/>
+  <rect x="24" y="24" width="16" height="16" fill="#C2EA3A"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Vertixel</title>
+  <path fill="#141619" d="M6 6H26V12H12V26H6Z M38 6H58V26H52V12H38Z M58 38V58H38V52H52V38Z M6 38H12V52H26V58H6Z"/>
+  <rect x="24" y="24" width="16" height="16" fill="#C2EA3A"/>
+</svg>
